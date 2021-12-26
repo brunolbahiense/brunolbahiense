@@ -1,4 +1,4 @@
-## Welcome to my profile!
+## Hello, I'm Bluis!
  <div>
   <a href="https://github.com/brunolbahiense">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolbahiense&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
