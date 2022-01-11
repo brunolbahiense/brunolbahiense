@@ -4,6 +4,8 @@
 
 - ⛓️ Crypto and Blockchain enthusiastic
 
+### I’ve been working at Startups using the new technologies that are currently a trend in the front-end market, creating Landing Pages and internal applications for companies; always looking for a great user experience (UX) and clarity in product composition 🔭
+
 
  <div>
   <a href="https://github.com/brunolbahiense">
