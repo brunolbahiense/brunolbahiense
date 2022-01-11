@@ -1,10 +1,10 @@
 ## Hi, I'm Bruno!
 <div> 
- - 🔥 Junior Web Developer 
+ 🔥 Junior Web Developer 
 
- - ⛓️ Crypto and Blockchain enthusiastic
+ ⛓️ Crypto and Blockchain enthusiastic
 
- ### I’ve been working at Startups using the new technologies that are currently a trend in the front-end market, creating Landing Pages and internal applications for companies; always looking for a great user experience (UX) and clarity in product composition 🔭
+ ### 🧩 I’ve been working at Startups using the new technologies that are currently a trend in the front-end market, creating Landing Pages and internal applications for companies; always looking for a great user experience (UX) and clarity in product composition 
 </div>
 
  <div>
