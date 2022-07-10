@@ -1,6 +1,6 @@
 ## Welcome, I'm Bruno
 <div> 
- 🔥 Junior Web Developer 
+ 🔥 Full-Stack Web Developer 
 
  ⛓️ Crypto and Blockchain enthusiastic
 
