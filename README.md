@@ -7,14 +7,6 @@
  ### 🧩 I’ve been working at Startups using the new technologies that are currently a trend in the front-end market, creating Landing Pages and internal applications for companies; always looking for a great user experience (UX) and clarity in product composition 
 </div>
 
-
- 
- # Stack
-  <div style="display: none">
-  <a href="https://github.com/brunolbahiense">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolbahiense&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolbahiense&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=60"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Bluis-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
