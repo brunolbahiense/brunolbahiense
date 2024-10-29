@@ -10,7 +10,7 @@
 
  
  # Stack
-  <div>
+  <div style="display: none">
   <a href="https://github.com/brunolbahiense">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolbahiense&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunolbahiense&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=60"/>
