@@ -21,7 +21,3 @@
   <img align="center" alt="Redis Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg">
   <img align="center" alt="Nginx Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">         
 </div>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brunolbahiense&theme=soft-green" alt="GitHub Streak" /></a>
-
-
