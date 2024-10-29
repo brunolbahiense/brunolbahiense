@@ -1,5 +1,6 @@
-## Welcome, I'm Bruno
-<div> 
+
+ ![github-header-image](https://github.com/user-attachments/assets/565a74cf-c389-4fc6-aee1-bf2fe44d1396)
+<div>
  🔥 Full-Stack Web Developer 
 
  ⛓️ Crypto and Blockchain enthusiastic
