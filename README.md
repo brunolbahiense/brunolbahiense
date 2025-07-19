@@ -18,6 +18,5 @@
   <img align="center" alt="Docker Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Graph QL Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain-wordmark.svg">
   <img align="center" alt="Next Js Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Redis Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg">
-  <img align="center" alt="Nginx Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">         
+  <img align="center" alt="Redis Icon" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-plain-wordmark.svg">     
 </div>
